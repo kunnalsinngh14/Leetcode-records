@@ -10,6 +10,7 @@ Record of all the LeetCode questions solved !
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
