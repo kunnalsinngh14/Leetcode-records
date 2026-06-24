@@ -7,6 +7,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
@@ -28,6 +29,7 @@ Record of all the LeetCode questions solved !
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
 ## Counting
@@ -37,5 +39,6 @@ Record of all the LeetCode questions solved !
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
