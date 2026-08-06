@@ -1,22 +1,31 @@
+import java.util.*;
+
 class Solution {
     public int majorityElement(int[] nums) {
-        int element = 0;
+        Set<Integer> set = new HashSet<>();
         int maxcount = 0;
-        for(int i = 0 ; i < nums.length ; i ++){
-            int e = nums[i];
-            int count=1;
-            if(i+1!=nums.length){
-                for(int j = i+1; j<nums.length; j++ ){
-                    if(e==nums[j]){
+        int majority = nums[0];
+        for (int i = 0; i < nums.length; i++) {
+
+            if (set.contains(nums[i])) {
+                continue;
+            } else {
+                int count = 0;
+                set.add(nums[i]);
+
+                for (int j = 0; j < nums.length; j++) {
+                    if (nums[i] == nums[j]) {
                         count++;
                     }
                 }
-            }
-            if(count>maxcount){
-                element  = e;
-                maxcount = Math.max(maxcount,count);
+
+                if (count > maxcount) {
+                    maxcount = count;
+                    majority = nums[i];
+                }
             }
         }
-        return element;
+
+        return majority;
     }
 }
