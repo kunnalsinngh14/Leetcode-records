@@ -84,4 +84,8 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0560-subarray-sum-equals-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
