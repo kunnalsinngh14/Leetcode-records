@@ -51,6 +51,7 @@ Record of all the LeetCode questions solved !
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -64,11 +65,13 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -97,4 +100,8 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
