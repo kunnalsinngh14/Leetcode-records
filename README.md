@@ -12,6 +12,7 @@ Record of all the LeetCode questions solved !
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@ Record of all the LeetCode questions solved !
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -70,6 +72,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 ## Boyer–Moore Majority Vote Algorithm
