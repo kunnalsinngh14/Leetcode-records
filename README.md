@@ -19,6 +19,7 @@ Record of all the LeetCode questions solved !
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Record of all the LeetCode questions solved !
 | [0232-implement-queue-using-stacks](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -118,4 +120,8 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
