@@ -57,6 +57,7 @@ Record of all the LeetCode questions solved !
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
