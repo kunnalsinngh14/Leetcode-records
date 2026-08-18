@@ -24,6 +24,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +53,7 @@ Record of all the LeetCode questions solved !
 | [0011-container-with-most-water](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
@@ -124,4 +126,12 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
