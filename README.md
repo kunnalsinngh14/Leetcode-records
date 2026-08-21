@@ -68,6 +68,7 @@ Record of all the LeetCode questions solved !
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 ## String
@@ -125,6 +126,7 @@ Record of all the LeetCode questions solved !
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0234-palindrome-linked-list) |
@@ -136,6 +138,7 @@ Record of all the LeetCode questions solved !
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
