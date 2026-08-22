@@ -35,12 +35,14 @@ Record of all the LeetCode questions solved !
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
 ## Counting
@@ -55,6 +57,7 @@ Record of all the LeetCode questions solved !
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
@@ -142,6 +145,7 @@ Record of all the LeetCode questions solved !
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0328-odd-even-linked-list) |
@@ -150,4 +154,8 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
