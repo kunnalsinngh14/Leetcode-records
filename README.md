@@ -56,6 +56,7 @@ Record of all the LeetCode questions solved !
 | [0015-3sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
@@ -79,6 +80,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 ## Stack
