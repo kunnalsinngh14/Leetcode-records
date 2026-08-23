@@ -74,6 +74,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 ## String
