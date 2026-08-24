@@ -8,6 +8,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0001-two-sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@ Record of all the LeetCode questions solved !
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
@@ -171,4 +173,8 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
