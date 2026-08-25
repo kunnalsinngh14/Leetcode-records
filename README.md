@@ -7,6 +7,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0015-3sum) |
@@ -39,6 +40,7 @@ Record of all the LeetCode questions solved !
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 ## Sorting
@@ -184,4 +186,8 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
