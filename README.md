@@ -67,6 +67,7 @@ Record of all the LeetCode questions solved !
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@ Record of all the LeetCode questions solved !
 | [0014-longest-common-prefix](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0394-decode-string) |
