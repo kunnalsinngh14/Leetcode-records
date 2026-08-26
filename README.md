@@ -101,6 +101,7 @@ Record of all the LeetCode questions solved !
 | [0394-decode-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Record of all the LeetCode questions solved !
 | [0735-asteroid-collision](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -148,6 +150,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0735-asteroid-collision](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
