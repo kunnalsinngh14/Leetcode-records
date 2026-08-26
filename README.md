@@ -70,6 +70,7 @@ Record of all the LeetCode questions solved !
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -94,6 +95,7 @@ Record of all the LeetCode questions solved !
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
