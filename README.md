@@ -21,6 +21,7 @@ Record of all the LeetCode questions solved !
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -204,4 +205,5 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
