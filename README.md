@@ -205,5 +205,10 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0704-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
