@@ -38,6 +38,7 @@ Record of all the LeetCode questions solved !
 | [0409-longest-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0560-subarray-sum-equals-k) |
+| [0981-time-based-key-value-store](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0981-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Record of all the LeetCode questions solved !
 | [0409-longest-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
+| [0981-time-based-key-value-store](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0981-time-based-key-value-store) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -149,6 +151,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0155-min-stack](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0232-implement-queue-using-stacks) |
+| [0981-time-based-key-value-store](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0981-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
@@ -209,6 +212,7 @@ Record of all the LeetCode questions solved !
 | [0033-search-in-rotated-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0704-binary-search) |
+| [0981-time-based-key-value-store](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0981-time-based-key-value-store) |
 ## Interactive
 |  |
 | ------- |
