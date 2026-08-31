@@ -1,68 +1,34 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-          List<List<Integer>> result = new ArrayList<>();
-
-        Arrays.sort(nums);
-
-        int n = nums.length;
-
-        for (int i = 0; i < n - 3; i++) {
-
-            // Skip duplicate first elements
-            if (i > 0 && nums[i] == nums[i - 1]) {
-                continue;
-            }
-
-            for (int j = i + 1; j < n - 2; j++) {
-
-                // Skip duplicate second elements
-                if (j > i + 1 && nums[j] == nums[j - 1]) {
-                    continue;
-                }
-
-                int left = j + 1;
-                int right = n - 1;
-
-                while (left < right) {
-
-                    long sum = (long) nums[i]
-                             + nums[j]
-                             + nums[left]
-                             + nums[right];
-
-                    if (sum == target) {
-
-                        result.add(Arrays.asList(
-                            nums[i],
-                            nums[j],
-                            nums[left],
-                            nums[right]
-                        ));
-
-                        // Skip duplicates
-                        while (left < right &&
-                               nums[left] == nums[left + 1]) {
-                            left++;
-                        }
-
-                        while (left < right &&
-                               nums[right] == nums[right - 1]) {
-                            right--;
-                        }
-
+      HashSet<List<Integer>> set = new HashSet<>(); 
+      Arrays.sort(nums);
+      if(nums.length<=3){
+        List<List<Integer>> result = new ArrayList<>();
+        return result;
+      }
+      for(int i = 0; i<nums.length-3; i++)  {
+            int p = i+1;
+            while(p<nums.length-2){
+                int left = p+1;
+                int right = nums.length-1;
+                while(left<right){
+                    long sum = (long) nums[i] + nums[p] + nums[left] + nums[right];
+                    if(sum==target){
+                        set.add(Arrays.asList(nums[i],nums[p],nums[left],nums[right]));
                         left++;
                         right--;
-
-                    } else if (sum < target) {
+                    }
+                    else if(sum<target){
                         left++;
-
-                    } else {
+                    }
+                    else{
                         right--;
                     }
                 }
+                p++;
             }
         }
-
+        List<List<Integer>> result = new ArrayList<>(set);
         return result;
     }
 }
