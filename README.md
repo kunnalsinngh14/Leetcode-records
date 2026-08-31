@@ -36,6 +36,7 @@ Record of all the LeetCode questions solved !
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0560-subarray-sum-equals-k) |
@@ -64,6 +65,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Record of all the LeetCode questions solved !
 | [0151-reverse-words-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0438-find-all-anagrams-in-a-string) |
