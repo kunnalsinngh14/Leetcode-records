@@ -23,6 +23,7 @@ Record of all the LeetCode questions solved !
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0735-asteroid-collision) |
@@ -37,6 +38,7 @@ Record of all the LeetCode questions solved !
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -63,6 +65,7 @@ Record of all the LeetCode questions solved !
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -85,6 +88,7 @@ Record of all the LeetCode questions solved !
 | [0234-palindrome-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -219,6 +223,7 @@ Record of all the LeetCode questions solved !
 | [0004-median-of-two-sorted-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0981-time-based-key-value-store) |
 ## Interactive
