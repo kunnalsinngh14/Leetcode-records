@@ -110,6 +110,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
@@ -121,6 +122,7 @@ Record of all the LeetCode questions solved !
 | [0014-longest-common-prefix](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
@@ -180,6 +182,7 @@ Record of all the LeetCode questions solved !
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -243,5 +246,6 @@ Record of all the LeetCode questions solved !
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
