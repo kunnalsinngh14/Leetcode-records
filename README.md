@@ -38,6 +38,7 @@ Record of all the LeetCode questions solved !
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
@@ -172,6 +173,7 @@ Record of all the LeetCode questions solved !
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0232-implement-queue-using-stacks) |
 | [0981-time-based-key-value-store](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0981-time-based-key-value-store) |
@@ -207,6 +209,7 @@ Record of all the LeetCode questions solved !
 | [0024-swap-nodes-in-pairs](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0234-palindrome-linked-list) |
@@ -248,4 +251,8 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0067-add-binary](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
