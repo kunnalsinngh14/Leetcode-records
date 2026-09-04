@@ -13,6 +13,7 @@ Record of all the LeetCode questions solved !
 | [0015-3sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0001-two-sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0146-lru-cache) |
