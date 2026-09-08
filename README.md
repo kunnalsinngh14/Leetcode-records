@@ -119,6 +119,7 @@ Record of all the LeetCode questions solved !
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
+| [3870-count-commas-in-range](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
