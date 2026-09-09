@@ -115,6 +115,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
@@ -198,6 +199,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0234-palindrome-linked-list) |
