@@ -121,6 +121,7 @@ Record of all the LeetCode questions solved !
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
 | [3870-count-commas-in-range](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
 | ------- |
