@@ -32,6 +32,7 @@ Record of all the LeetCode questions solved !
 | [0704-binary-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0739-daily-temperatures) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
