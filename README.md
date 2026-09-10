@@ -24,6 +24,7 @@ Record of all the LeetCode questions solved !
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ Record of all the LeetCode questions solved !
 | [0146-lru-cache](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +78,7 @@ Record of all the LeetCode questions solved !
 | [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
@@ -83,6 +86,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
@@ -163,6 +167,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
