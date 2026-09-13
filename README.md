@@ -275,6 +275,7 @@ Record of all the LeetCode questions solved !
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
@@ -282,6 +283,7 @@ Record of all the LeetCode questions solved !
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
@@ -289,6 +291,7 @@ Record of all the LeetCode questions solved !
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
@@ -300,6 +303,7 @@ Record of all the LeetCode questions solved !
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
