@@ -157,6 +157,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0232-implement-queue-using-stacks) |
@@ -284,6 +285,7 @@ Record of all the LeetCode questions solved !
 | [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -292,6 +294,7 @@ Record of all the LeetCode questions solved !
 | [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -300,6 +303,7 @@ Record of all the LeetCode questions solved !
 | [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
