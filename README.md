@@ -14,6 +14,7 @@ Record of all the LeetCode questions solved !
 | [0018-4sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0049-group-anagrams) |
@@ -255,6 +256,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0278-first-bad-version) |
