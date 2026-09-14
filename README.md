@@ -130,6 +130,7 @@ Record of all the LeetCode questions solved !
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -316,4 +317,8 @@ Record of all the LeetCode questions solved !
 | [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
