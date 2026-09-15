@@ -325,4 +325,8 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
