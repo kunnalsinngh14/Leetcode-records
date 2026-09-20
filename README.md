@@ -154,6 +154,7 @@ Record of all the LeetCode questions solved !
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0981-time-based-key-value-store) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -210,6 +211,7 @@ Record of all the LeetCode questions solved !
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
