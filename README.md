@@ -20,6 +20,7 @@ Record of all the LeetCode questions solved !
 | [0049-group-anagrams](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -47,6 +48,7 @@ Record of all the LeetCode questions solved !
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
@@ -69,6 +71,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 ## Sorting
@@ -290,6 +293,7 @@ Record of all the LeetCode questions solved !
 | [0101-symmetric-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0199-binary-tree-right-side-view) |
@@ -318,6 +322,7 @@ Record of all the LeetCode questions solved !
 | [0101-symmetric-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0199-binary-tree-right-side-view) |
