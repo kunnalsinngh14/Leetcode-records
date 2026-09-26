@@ -103,6 +103,7 @@ Record of all the LeetCode questions solved !
 | [0018-4sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0125-valid-palindrome) |
@@ -237,6 +238,7 @@ Record of all the LeetCode questions solved !
 | [0002-add-two-numbers](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0143-reorder-list) |
