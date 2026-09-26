@@ -165,6 +165,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0144-binary-tree-preorder-traversal) |
@@ -298,6 +299,7 @@ Record of all the LeetCode questions solved !
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0102-binary-tree-level-order-traversal) |
@@ -316,6 +318,7 @@ Record of all the LeetCode questions solved !
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -332,6 +335,7 @@ Record of all the LeetCode questions solved !
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0102-binary-tree-level-order-traversal) |
