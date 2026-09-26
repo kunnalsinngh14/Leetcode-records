@@ -71,6 +71,7 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
@@ -237,6 +238,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -256,6 +258,7 @@ Record of all the LeetCode questions solved !
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0148-sort-list) |
 ## Trie
 |  |
@@ -384,4 +387,12 @@ Record of all the LeetCode questions solved !
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0113-path-sum-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
