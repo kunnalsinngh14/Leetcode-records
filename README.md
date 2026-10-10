@@ -35,6 +35,7 @@ Record of all the LeetCode questions solved !
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0735-asteroid-collision) |
@@ -94,6 +95,7 @@ Record of all the LeetCode questions solved !
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0658-find-k-closest-elements) |
 ## Counting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Record of all the LeetCode questions solved !
 | [0283-move-zeroes](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -276,6 +279,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -287,6 +291,7 @@ Record of all the LeetCode questions solved !
 | [0268-missing-number](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0981-time-based-key-value-store) |
 ## Interactive
@@ -409,6 +414,7 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0658-find-k-closest-elements) |
 ## Tournament Sort
 |  |
 | ------- |
