@@ -330,6 +330,7 @@ Record of all the LeetCode questions solved !
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -349,6 +350,7 @@ Record of all the LeetCode questions solved !
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -372,6 +374,7 @@ Record of all the LeetCode questions solved !
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0617-merge-two-binary-trees) |
 ## DP on Trees
 |  |
 | ------- |
@@ -389,6 +392,7 @@ Record of all the LeetCode questions solved !
 | [0199-binary-tree-right-side-view](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
+| [0617-merge-two-binary-trees](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0733-flood-fill) |
 ## Geometry
 |  |
