@@ -165,6 +165,7 @@ Record of all the LeetCode questions solved !
 | [0394-decode-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0449-serialize-and-deserialize-bst) |
 | [0844-backspace-string-compare](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0981-time-based-key-value-store) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -215,6 +216,7 @@ Record of all the LeetCode questions solved !
 | [0146-lru-cache](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0232-implement-queue-using-stacks) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0449-serialize-and-deserialize-bst) |
 | [0981-time-based-key-value-store](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0981-time-based-key-value-store) |
 ## Queue
 |  |
@@ -330,6 +332,7 @@ Record of all the LeetCode questions solved !
 | [0199-binary-tree-right-side-view](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
@@ -353,6 +356,7 @@ Record of all the LeetCode questions solved !
 | [0199-binary-tree-right-side-view](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
@@ -380,6 +384,7 @@ Record of all the LeetCode questions solved !
 | [0199-binary-tree-right-side-view](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
@@ -400,6 +405,7 @@ Record of all the LeetCode questions solved !
 | [0112-path-sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0617-merge-two-binary-trees) |
@@ -447,4 +453,5 @@ Record of all the LeetCode questions solved !
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0099-recover-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
