@@ -343,6 +343,7 @@ Record of all the LeetCode questions solved !
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -367,6 +368,7 @@ Record of all the LeetCode questions solved !
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -397,6 +399,7 @@ Record of all the LeetCode questions solved !
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
