@@ -28,6 +28,7 @@ Record of all the LeetCode questions solved !
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0229-majority-element-ii) |
@@ -363,6 +364,7 @@ Record of all the LeetCode questions solved !
 | [0144-binary-tree-preorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0449-serialize-and-deserialize-bst) |
@@ -417,6 +419,7 @@ Record of all the LeetCode questions solved !
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
@@ -435,6 +438,7 @@ Record of all the LeetCode questions solved !
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
@@ -471,4 +475,8 @@ Record of all the LeetCode questions solved !
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0449-serialize-and-deserialize-bst) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
