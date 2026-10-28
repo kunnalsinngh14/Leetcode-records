@@ -19,6 +19,7 @@ Record of all the LeetCode questions solved !
 | [0041-first-missing-positive](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -163,6 +164,7 @@ Record of all the LeetCode questions solved !
 | [0020-valid-parentheses](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0242-valid-anagram) |
@@ -350,6 +352,7 @@ Record of all the LeetCode questions solved !
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0099-recover-binary-search-tree) |
@@ -438,6 +441,7 @@ Record of all the LeetCode questions solved !
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0994-rotting-oranges) |
@@ -452,6 +456,7 @@ Record of all the LeetCode questions solved !
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/kunnalsinngh14/Leetcode-records/tree/master/0113-path-sum-ii) |
 ## Heap (Priority Queue)
 |  |
